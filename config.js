@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
-      port:  13592,
-      secure: false
+      name: "prmgvyt",
+      password: "iamprmgvyt",
+      host: "lavalinkprmgvyt.onrender.com",
+      port: 443,
+      secure: true
     }
   ]
 }
